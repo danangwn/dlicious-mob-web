@@ -1,0 +1,51 @@
+/* @import './base.css'; */
+
+.main-hero-text {
+    margin-top: 100px;
+    padding-left: 30px;
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+p,
+.main-hero-text {
+    color: #3E1C00;
+}
+
+.hero-subtext {
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 17px;
+}
+
+p,
+.hero-subtext {
+    color: #3E1C00;
+}
+
+p,
+.hero-text {
+    margin-bottom: 0px;
+}
+
+.btn-primary {
+    background-color: #3E1C00
+    !important;
+    border-color: #3E1C00
+    !important;
+}
+
+.see-catalogs {
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #3E1C00;
+    text-decoration:none
+}
