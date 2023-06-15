@@ -2,12 +2,12 @@
 
 .main-hero-text {
     margin-top: 100px;
-    padding-left: 30px;
+    /* padding-left: 30px; */
     font-family: 'Verdana';
     font-style: normal;
-    font-weight: 700;
-    font-size: 14px;
-    line-height: 17px;
+    /* font-weight: 700; */
+    font-size: 18px;
+    line-height: 22px;
 }
 
 p,
@@ -19,7 +19,7 @@ p,
     font-family: 'Verdana';
     font-style: normal;
     font-weight: 400;
-    font-size: 12px;
+    font-size: 14px;
     line-height: 17px;
 }
 
@@ -48,4 +48,14 @@ p,
     line-height: 17px;
     color: #3E1C00;
     text-decoration:none
+}
+
+.new-catalogs-title {
+    margin-top: 50px;
+    padding-left: 15px;
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 17px;
 }
